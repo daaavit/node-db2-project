@@ -13,7 +13,7 @@ const cars = [{
 },
 {
 
-    vin: '11111111111111111',
+    vin: '11111154112211111',
     make: 'bmw',
     model: '535i',
     milage: 93123,
@@ -23,7 +23,7 @@ const cars = [{
 },
 {
 
-    vin: '11111111111111111',
+    vin: '12345678912345678',
     make: 'mercedes',
     model: 'e500',
     milage: 45333,
